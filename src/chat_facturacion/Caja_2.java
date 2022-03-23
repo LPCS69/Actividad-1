@@ -94,8 +94,9 @@ public class Caja_2 {
     }
 
     /**
-     * Metodo encargado de la logica del envio de datos al otro usuario
-     */
+     * Este es el método al que le corresponde manejar la lógica
+     * del evio de datos al otro usuario
+     * */
     private void benviarActionPerformed(java.awt.event.ActionEvent evt) {
         //ENVIO DEL MENSAJE AL SERVIDOR
         try {
