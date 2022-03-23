@@ -36,7 +36,8 @@ public class Panel extends JPanel {
 
     @Override
      /**
-     * Metodo que se encarga de dibujar y escribir objetos de cierta parte de la interfaz
+      * Este método es el encargado de dibujar y escribir los
+      * distintos elemento de la interfas en ciertas partes de la pantalla
      */
     public void paint(Graphics p) {
         super.paint(p);
