@@ -14,6 +14,7 @@ import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.net.Socket;
 /**
+ *****
  * Esta clase contiene los atributos y metodos del Usuario que seria el usuario servidor
  * @author Luis Pablo Céspedes Sequeira.
  * @see Caja_2
